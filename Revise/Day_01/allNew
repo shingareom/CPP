@@ -1,0 +1,15 @@
+123.123 when you pass this number in func this will be treated as double
+123.123f this will be treated as float
+123.123l this will be treated as long double
+
+refrance var is just a variable storing an address to access another variable 
+varibale having diffrent names
+    
+Manipulator
+
+In C++ programming, language manipulators are used in the formatting of output. The two most commonly used manipulators are: "endl" and "setw".
+
+    "endl" is used for the next line.
+    "setw" is used to specify the width of the output.
+
+An example program to show the working of a manipulator is shown in figure 3.
